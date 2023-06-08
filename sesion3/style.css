@@ -1,0 +1,10 @@
+h1{
+    color: #025157;
+}
+.promo{
+    display: flex;
+    width: 70%;
+    margin: 100px auto;
+    /*margin-left: 15%*/
+    align-items: center;
+}
